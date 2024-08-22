@@ -14,3 +14,7 @@ venv.bak/
 .vs
 
 *.db
+compose.local.yaml
+.secrets
+.venv/
+certificates/
