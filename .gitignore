@@ -1,0 +1,16 @@
+__pycache__/
+*/__pycache__/
+
+.env
+.venv
+.venv38
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+.idea
+.vs
+
+*.db
