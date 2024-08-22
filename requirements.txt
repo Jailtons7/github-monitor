@@ -1,0 +1,2 @@
+quixstreams==2.9.0
+requests-sse==0.3.2
